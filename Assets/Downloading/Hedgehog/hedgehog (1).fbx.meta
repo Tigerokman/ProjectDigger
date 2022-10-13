@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: ea867baa16a50da4fbbf850b79a4714a
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -1561858304004720211
+    second: Armature|Armature|Armature|sleep
+  - first:
+      74: -8898279275467054867
+    second: Armature|Armature|Armature|stun
+  - first:
+      74: -4328753303609766286
+    second: Armature|Armature|Armature|tpose
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Armature|Armature|sleep
+      takeName: Armature|Armature|Armature|sleep
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature|Armature|stun
+      takeName: Armature|Armature|Armature|stun
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature|Armature|tpose
+      takeName: Armature|Armature|Armature|tpose
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: hedgehog (1)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hedgehog_sphere
+      parentName: hedgehog (1)(Clone)
+      position: {x: -0.00000007892265, y: 1.4255389, z: -0.043027632}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: hedgehog (1)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 0.5270595, y: 0.5270595, z: 0.5270595}
+    - name: root
+      parentName: Armature
+      position: {x: -0.0000000024549032, y: 1.2754724, z: -0.2443167}
+      rotation: {x: -0, y: 0.0000000025611373, z: 0.0021458508, w: 0.99999774}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: spine1
+      parentName: root
+      position: {x: 0.000000013969839, y: 1, z: 0.00000003387686}
+      rotation: {x: -0.6581708, y: 0.00000008974891, z: -0.00000007846005, w: 0.75286865}
+      scale: {x: 0.9999998, y: 1, z: 1}
+    - name: spine1_end
+      parentName: spine1
+      position: {x: -0, y: 1.294285, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine2
+      parentName: root
+      position: {x: 0.000000013969839, y: 1, z: 0.00000003387686}
+      rotation: {x: 0.70085, y: 0.00000006235941, z: 0.00000006127028, w: 0.7133087}
+      scale: {x: 1, y: 1.0000001, z: 1.0000004}
+    - name: spine3
+      parentName: spine2
+      position: {x: -0.000000018626451, y: 1.6360291, z: 0.000000058673322}
+      rotation: {x: -0.022937447, y: 0.0000009852098, z: -0.0000000266146, w: 0.99973696}
+      scale: {x: 1, y: 0.9999999, z: 0.9999996}
+    - name: head
+      parentName: spine3
+      position: {x: -0.00000009685755, y: 1.2491661, z: 0.000000017695129}
+      rotation: {x: -0.07295978, y: 0.000000475557, z: -0.00000019134522, w: 0.99733496}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000004}
+    - name: head_end
+      parentName: head
+      position: {x: -0, y: 1.6281549, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: frontleg.L
+      parentName: spine3
+      position: {x: -0.89355254, y: 1.1907336, z: 0.5866575}
+      rotation: {x: -0.04378892, y: 0.20616917, z: 0.64011705, w: 0.7388011}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000002}
+    - name: frontleg.L_end
+      parentName: frontleg.L
+      position: {x: -0, y: 0.619123, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: frontleg.R
+      parentName: spine3
+      position: {x: 0.99669844, y: 1.1421787, z: 0.6003047}
+      rotation: {x: -0.03917418, y: -0.20727043, z: -0.6405247, w: 0.7383986}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000002}
+    - name: frontleg.R_end
+      parentName: frontleg.R
+      position: {x: -0, y: 0.61912286, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: backleg.L
+      parentName: root
+      position: {x: -0.86739624, y: 0.51080006, z: -0.53072965}
+      rotation: {x: 0.93036556, y: -0.029509366, z: 0.011585575, w: 0.36526015}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: backleg.L_end
+      parentName: backleg.L
+      position: {x: -0, y: 0.62362885, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: backleg.R
+      parentName: root
+      position: {x: 0.8673961, y: 0.51080006, z: -0.5307296}
+      rotation: {x: 0.93036556, y: 0.029509366, z: -0.011585574, w: 0.36526015}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999998}
+    - name: backleg.R_end
+      parentName: backleg.R
+      position: {x: -0, y: 0.62362885, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hedgehog
+      parentName: hedgehog (1)(Clone)
+      position: {x: -0.000000055744913, y: -0.00000004097818, z: 0.000000042840842}
+      rotation: {x: -0.00000023151551, y: 0.0000000021389772, z: -7.5922824e-10, w: 1}
+      scale: {x: 0.20608081, y: 0.18769914, z: 0.18769915}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
